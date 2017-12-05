@@ -1,0 +1,14 @@
+{
+  "name": "dotenv-keyvault-example",
+  "version": "1.0.0",
+  "description": "This is an example Azure Function that uses `dotenv-keyvault` to retrieve a secret value from Key Vault and return it as part of the HTTP response of the function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0"
+  }
+}
